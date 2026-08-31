@@ -35,3 +35,6 @@ Use Bearer Token for any listed request:
 
 ### Set up MySQL
 Configure database according to [application.properties](https://github.com/Kvark900/spring-boot-rest-api/blob/master/src/main/resources/application.properties) file, or update this file with yours properties.
+
+
+<!-- Security scan triggered at 2026-08-31 17:00:35 -->
