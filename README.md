@@ -38,3 +38,5 @@ Configure database according to [application.properties](https://github.com/Kvar
 
 
 <!-- Security scan triggered at 2026-08-31 17:00:35 -->
+
+<!-- Security scan triggered at 2026-09-02 06:56:15 -->
